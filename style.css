@@ -33,10 +33,11 @@ textarea,
 select {
 	font: inherit;
 }
-
+/*
 * {
 	outline: red solid 1px;
 }
+*/
 body {
 	display: block;
 	justify-content: center;
